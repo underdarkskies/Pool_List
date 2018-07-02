@@ -1,4 +1,4 @@
-# Pool List
+# Ravencoin Pool List
 (In Random Order)
 
 ## DEDPOOL
