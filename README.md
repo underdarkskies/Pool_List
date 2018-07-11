@@ -236,5 +236,5 @@ https://titan-mining.net/
 `stratum+tcp://pool.titan-mining.net:3636 -u <WALLET_ADDRESS> -p c=RVNoptionalRigNamed=optionalStaticDiff`
 
 ## Pyroxene (theMINE)
-http://ame-po01.chainworksindustries.com/rvn/index.php?page=login  
+http://pyroxene.chainworksindustries.com/rvn/ 
 `stratum+tcp://ame-st01.chainworksindustries.com:2300 -u Weblogin.WorkerName -p WorkerPassword`
