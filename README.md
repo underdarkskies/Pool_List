@@ -53,7 +53,7 @@ https://hive.gulfcoastmining.com/
 
 ## Mining Patriot
 https://miningpatriot.com/  
-`stratum+tcp://miningpatriot.com:3636 -u <WALLET_ADDRESS> [-p <OPTIONS>]`
+`stratum+tcp://mine.miningpatriot.com:3636 -u <WALLET_ADDRESS> [-p <OPTIONS>]`
 
 
 ## Quantum
