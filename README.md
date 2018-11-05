@@ -238,3 +238,7 @@ https://titan-mining.net/
 ## Pyroxene (theMINE)
 http://pyroxene.chainworksindustries.com/rvn/ 
 `stratum+tcp://ame-st01.chainworksindustries.com:2300 -u Weblogin.WorkerName -p WorkerPassword`
+
+## BitPoolMining
+http://bitpoolmining.com/  
+`stratum+tcp://us-east.rvn.bitpoolmining.com:3172 -u <WALLET_ADDRESS.yourRigName> -p x`
