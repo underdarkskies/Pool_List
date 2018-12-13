@@ -230,7 +230,6 @@ https://salmonpool.org/
 https://coin-miners.info/  
 `stratum+tcp://stratum-eu.coin-miners.info:3636 -u <WALLET_ADDRESS> [-p <OPTIONS>]`
 
-
 ## Titan Mining
 https://titan-mining.net/  
 `stratum+tcp://pool.titan-mining.net:3636 -u <WALLET_ADDRESS> -p c=RVNoptionalRigNamed=optionalStaticDiff`
@@ -238,3 +237,7 @@ https://titan-mining.net/
 ## Pyroxene (theMINE)
 http://pyroxene.chainworksindustries.com/rvn/ 
 `stratum+tcp://ame-st01.chainworksindustries.com:2300 -u Weblogin.WorkerName -p WorkerPassword`
+
+## Coinfoundry
+https://coinfoundry.org/pool/rvn
+`stratum+tcp://rvn.coinfoundry.org:3172 -u <WALLET_ADDRESS> [-p <OPTIONS>]`
