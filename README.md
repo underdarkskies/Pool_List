@@ -248,3 +248,6 @@ http://bitpoolmining.com/
 https://coinfoundry.org/pool/rvn
 `stratum+tcp://rvn.coinfoundry.org:3172 -u <WALLET_ADDRESS> [-p <OPTIONS>]`
 
+## 2Miners  
+https://2miners.com 
+`stratum+tcp://rvn.2miners.com:6060 -u <WALLET_ADDRESS.yourRigName> -p x`
